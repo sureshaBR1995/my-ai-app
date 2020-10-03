@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-ai-app/static/css/main.19434af2.chunk.css",
+    "main.js": "/my-ai-app/static/js/main.82b79a42.chunk.js",
+    "main.js.map": "/my-ai-app/static/js/main.82b79a42.chunk.js.map",
+    "runtime-main.js": "/my-ai-app/static/js/runtime-main.6909950d.js",
+    "runtime-main.js.map": "/my-ai-app/static/js/runtime-main.6909950d.js.map",
+    "static/js/2.03ce6e9d.chunk.js": "/my-ai-app/static/js/2.03ce6e9d.chunk.js",
+    "static/js/2.03ce6e9d.chunk.js.map": "/my-ai-app/static/js/2.03ce6e9d.chunk.js.map",
+    "index.html": "/my-ai-app/index.html",
+    "precache-manifest.6f39a4e7d3b383aab4ab5318781ef002.js": "/my-ai-app/precache-manifest.6f39a4e7d3b383aab4ab5318781ef002.js",
+    "service-worker.js": "/my-ai-app/service-worker.js",
+    "static/css/main.19434af2.chunk.css.map": "/my-ai-app/static/css/main.19434af2.chunk.css.map",
+    "static/js/2.03ce6e9d.chunk.js.LICENSE.txt": "/my-ai-app/static/js/2.03ce6e9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6909950d.js",
+    "static/js/2.03ce6e9d.chunk.js",
+    "static/css/main.19434af2.chunk.css",
+    "static/js/main.82b79a42.chunk.js"
+  ]
+}
