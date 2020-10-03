@@ -2,7 +2,7 @@
   "name": "ai-news-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://sureshabr1995.github.io/my-ai-app/"
+  "homepage":"https://sureshabr1995.github.io/my-ai-app/",
   "dependencies": {
     "@alan-ai/alan-sdk-web": "^1.4.0",
     "@material-ui/core": "^4.11.0",
